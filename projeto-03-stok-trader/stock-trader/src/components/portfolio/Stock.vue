@@ -1,7 +1,5 @@
 <template>
-    <div class="usuario">
-        <h2>Usuários</h2>
-    </div>
+    <h1>Ação (Portfólio)</h1>
 </template>
 
 <script>
